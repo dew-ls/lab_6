@@ -169,12 +169,12 @@ git commit -m "Packaging added."
 git tag v1.0.0
 git push origin master --tags
 
-Enumerating objects: 12, done.
-Counting objects: 100% (12/12), done.
+Enumerating objects: 14, done.
+Counting objects: 100% (14/14), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (8/8), done.
-Writing objects: 100% (8/8), 1.84 KiB | 1.84 MiB/s, done.
-Total 8 (delta 2), reused 0 (delta 0), pack-reused 0
+Writing objects: 100% (10/10), 3.03 KiB | 1.51 MiB/s, done.
+Total 8 (delta 2), reused 0 (delta 0), pack-reused (from 0)
 To https://github.com/dew-ls/lab06.git
- * [new tag]         v0.1.0.0 -> v0.1.0.0
+ * [new tag]         v1.0.0 -> v1.0.0
 ```
